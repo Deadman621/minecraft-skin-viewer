@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/minecraft-skin-viewer/static/css/main.0bce9404.css",
+    "main.js": "/minecraft-skin-viewer/static/js/main.af28e4b0.js",
+    "static/js/787.0df9e31c.chunk.js": "/minecraft-skin-viewer/static/js/787.0df9e31c.chunk.js",
+    "static/media/image.jpg": "/minecraft-skin-viewer/static/media/image.b37a7f875b95e28abcc5.jpg",
+    "index.html": "/minecraft-skin-viewer/index.html",
+    "main.0bce9404.css.map": "/minecraft-skin-viewer/static/css/main.0bce9404.css.map",
+    "main.af28e4b0.js.map": "/minecraft-skin-viewer/static/js/main.af28e4b0.js.map",
+    "787.0df9e31c.chunk.js.map": "/minecraft-skin-viewer/static/js/787.0df9e31c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bce9404.css",
+    "static/js/main.af28e4b0.js"
+  ]
+}
