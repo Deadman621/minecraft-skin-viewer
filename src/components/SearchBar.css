@@ -1,0 +1,62 @@
+.search-bar {
+    width: 100%;
+    max-width: 700px;
+    background: rgba(225, 225, 225, 0.2);
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+    backdrop-filter: blur(4px) saturate(180%);
+  }
+  
+.search-bar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: #cac7ff;
+  }
+  
+::placeholder {
+    color: #cac7ff;
+  }
+  
+.search-bar button img {
+    width: 25px;
+  }
+  
+.search-bar button {
+    border: 0;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: #1c8a25;
+    cursor: pointer;
+  }
+  
+.skin-card {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+.skin-card img {
+    max-width: 100%;
+  }
+  
+.username {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.error-message {
+    color: #cac7ff; /* Light blue color */
+    font-size: 20px; /* Increased font size */
+    margin-top: 20px; /* Move it down a bit */
+    text-align: center; /* Align the text to the center horizontally */
+}
+  
+  
+  
